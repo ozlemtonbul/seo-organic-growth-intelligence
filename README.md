@@ -70,18 +70,6 @@ The implementation of the pipeline delivered measurable improvements in SEO perf
 
 ---
 
-## Output Files
-
-| File                                   | Description                      |
-| -------------------------------------- | -------------------------------- |
-| `seo_scenario_results.csv`             | Simulated SEO scenarios per page |
-| `seo_optimization_recommendations.csv` | Final recommended actions        |
-| `seo_priority_classification.csv`      | Page-level prioritization        |
-| `seo_model_metrics.csv`                | Model validation results         |
-| `seo_feature_importance.csv`           | Key performance drivers          |
-
----
-
 ## How to Run
 
 ```bash id="seo_run_final"
