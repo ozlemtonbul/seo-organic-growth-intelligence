@@ -1,3 +1,8 @@
+## 🔴 Live Interactive Dashboard
+| | Link |
+|--|--|
+| SEO Keywords · Traffic · E-Commerce · 2026 | [View Dashboard →](https://ozlemtonbul.github.io/dashboards/seo_dashboard.html) |
+
 # SEO Organic Growth Intelligence Pipeline
 
 ## Overview
